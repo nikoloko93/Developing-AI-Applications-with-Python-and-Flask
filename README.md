@@ -1,1 +1,1 @@
-# Developing-AI-Applications-with-Python-and-Flask
+# Repository for final project
